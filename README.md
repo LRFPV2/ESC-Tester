@@ -15,3 +15,6 @@ WARNING: ENSURE PROPELLERS ARE OFF UNTIL READY
 
 FTDI serial port is specified in run command, as shown below:
 python ESC-tester-v1.py COM8 --> Telemtry serial port
+
+Example of final motor test data:
+![Screenshot_46](https://github.com/user-attachments/assets/06c57eaa-0f48-49bb-a961-72d9ef524359)
